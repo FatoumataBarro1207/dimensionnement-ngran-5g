@@ -49,5 +49,5 @@ L'application s'ouvre automatiquement dans le navigateur à l'adresse
 
 ## Auteur
 
-Projet réalisé dans le cadre du module Réseaux Mobiles — Dimensionnement et
+Projet réalisé par Fatoumata BARRO dans le cadre du module Réseaux Mobiles — Dimensionnement et
 Planification de la partie radio NG-RAN de la 5G.
